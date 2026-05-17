@@ -1,0 +1,164 @@
+{
+  "egypt": {
+    "corrupted_guard": {
+      "name": "Corrupted Guard",
+      "hp": 25,
+      "damage": 8,
+      "speed": 35,
+      "aggroRange": 70,
+      "attackRange": 16,
+      "attackCooldown": 1200,
+      "xpReward": 10,
+      "behavior": "normal"
+    },
+    "sand_wraith": {
+      "name": "Sand Wraith",
+      "hp": 15,
+      "damage": 12,
+      "speed": 50,
+      "aggroRange": 90,
+      "attackRange": 14,
+      "attackCooldown": 800,
+      "xpReward": 15,
+      "behavior": "charger",
+      "chargeCooldown": 2500
+    },
+    "desert_archer": {
+      "name": "Desert Archer",
+      "hp": 18,
+      "damage": 10,
+      "speed": 30,
+      "aggroRange": 110,
+      "attackRange": 12,
+      "attackCooldown": 1500,
+      "xpReward": 15,
+      "behavior": "ranged",
+      "rangedRange": 100,
+      "projectileSpeed": 100
+    },
+    "boss_medjay_captain": {
+      "name": "Captain Amenhotep",
+      "hp": 120,
+      "damage": 15,
+      "speed": 30,
+      "aggroRange": 120,
+      "attackRange": 20,
+      "attackCooldown": 1500,
+      "knockbackResist": 0.5,
+      "xpReward": 50
+    }
+  },
+  "rome": {
+    "temporal_legionary": {
+      "name": "Temporal Legionary",
+      "hp": 30,
+      "damage": 10,
+      "speed": 38,
+      "aggroRange": 75,
+      "attackRange": 18,
+      "attackCooldown": 1000,
+      "xpReward": 12,
+      "behavior": "normal"
+    },
+    "phantom_centurion": {
+      "name": "Phantom Centurion",
+      "hp": 20,
+      "damage": 14,
+      "speed": 45,
+      "aggroRange": 85,
+      "attackRange": 14,
+      "attackCooldown": 900,
+      "xpReward": 18,
+      "behavior": "charger",
+      "chargeCooldown": 2000
+    },
+    "roman_archer": {
+      "name": "Roman Sagittarius",
+      "hp": 22,
+      "damage": 12,
+      "speed": 32,
+      "aggroRange": 110,
+      "attackRange": 14,
+      "attackCooldown": 1300,
+      "xpReward": 18,
+      "behavior": "ranged",
+      "rangedRange": 110,
+      "projectileSpeed": 120
+    },
+    "praetorian_guard": {
+      "name": "Praetorian Guard",
+      "hp": 45,
+      "damage": 12,
+      "speed": 28,
+      "aggroRange": 70,
+      "attackRange": 18,
+      "attackCooldown": 1200,
+      "xpReward": 25,
+      "behavior": "shielded",
+      "shieldHp": 30,
+      "knockbackResist": 0.4
+    },
+    "boss_temporal_anomaly": {
+      "name": "Temporal Anomaly",
+      "hp": 150,
+      "damage": 18,
+      "speed": 35,
+      "aggroRange": 130,
+      "attackRange": 24,
+      "attackCooldown": 1200,
+      "knockbackResist": 0.7,
+      "xpReward": 75
+    }
+  },
+  "modern": {
+    "void_fragment": {
+      "name": "Void Fragment",
+      "hp": 20,
+      "damage": 15,
+      "speed": 55,
+      "aggroRange": 100,
+      "attackRange": 12,
+      "attackCooldown": 700,
+      "xpReward": 20,
+      "behavior": "charger",
+      "chargeCooldown": 1800
+    },
+    "void_sentinel": {
+      "name": "Void Sentinel",
+      "hp": 35,
+      "damage": 12,
+      "speed": 25,
+      "aggroRange": 90,
+      "attackRange": 16,
+      "attackCooldown": 1400,
+      "xpReward": 22,
+      "behavior": "shielded",
+      "shieldHp": 25,
+      "knockbackResist": 0.3
+    },
+    "void_caster": {
+      "name": "Void Caster",
+      "hp": 15,
+      "damage": 18,
+      "speed": 30,
+      "aggroRange": 120,
+      "attackRange": 10,
+      "attackCooldown": 1100,
+      "xpReward": 25,
+      "behavior": "ranged",
+      "rangedRange": 120,
+      "projectileSpeed": 140
+    },
+    "boss_eraser": {
+      "name": "The Eraser",
+      "hp": 250,
+      "damage": 20,
+      "speed": 25,
+      "aggroRange": 200,
+      "attackRange": 30,
+      "attackCooldown": 1500,
+      "knockbackResist": 0.9,
+      "xpReward": 100
+    }
+  }
+}

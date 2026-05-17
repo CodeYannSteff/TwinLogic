@@ -1,0 +1,17 @@
+{
+  "name": "chronos-guardian",
+  "version": "1.0.0",
+  "description": "A top-down action-RPG with real-time card-based abilities across three historical eras",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node postbuild.js",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}

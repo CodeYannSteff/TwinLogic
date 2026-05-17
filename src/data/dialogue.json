@@ -1,0 +1,47 @@
+{
+  "hub_scientist_intro": [
+    { "speaker": "Dr. Elena Voss", "text": "You're awake... after three thousand years. We found you beneath the Nexus chamber." },
+    { "speaker": "Dr. Elena Voss", "text": "The temporal rifts are tearing history apart. Events are being rewritten — erased." },
+    { "speaker": "Dr. Elena Voss", "text": "We built the Chronoportal, but only a being like you can survive the jumps." },
+    { "speaker": "Kael", "text": "I remember... fragments. A duty to protect the flow of time." },
+    { "speaker": "Dr. Elena Voss", "text": "Take these Chrono Cards. They'll channel powers from the eras you visit. Use them wisely." },
+    { "speaker": "Dr. Elena Voss", "text": "Your first mission: Ancient Egypt. The construction of the Great Pyramid is under threat." }
+  ],
+  "hub_scientist_post_egypt": [
+    { "speaker": "Dr. Elena Voss", "text": "You've stabilized the Egyptian timeline. But the rifts are spreading." },
+    { "speaker": "Dr. Elena Voss", "text": "Next target: Rome, 44 BC. The Ides of March. Something is preventing Caesar's assassination." },
+    { "speaker": "Dr. Elena Voss", "text": "I know it sounds brutal, but that event shaped the entire Western world. History must run its course." }
+  ],
+  "hub_scientist_post_rome": [
+    { "speaker": "Dr. Elena Voss", "text": "Both timelines are stabilized, but the readings are off the charts. The source is HERE." },
+    { "speaker": "Dr. Elena Voss", "text": "The Eraser — whatever it is — it's manifesting in the lab. This is the final stand, Kael." },
+    { "speaker": "Kael", "text": "Then I face it head on. The timeline will hold." }
+  ],
+  "egypt_imhotep": [
+    { "speaker": "Imhotep", "text": "Stranger from beyond the sands... you carry the mark of the timeless ones." },
+    { "speaker": "Imhotep", "text": "Dark spirits have possessed Medjay captain Khufu's guard. They sabotage the pyramid's construction." },
+    { "speaker": "Imhotep", "text": "The workers flee in terror. Without the pyramid, the Pharaoh's passage to the afterlife is severed." },
+    { "speaker": "Kael", "text": "Show me where they strike. I will end this corruption." },
+    { "speaker": "Imhotep", "text": "Take this — the Pharaoh's Flame. Sacred fire to burn away the darkness." }
+  ],
+  "egypt_worker": [
+    { "speaker": "Pyramid Worker", "text": "The stones... they move on their own at night. The spirits are angry!" },
+    { "speaker": "Pyramid Worker", "text": "Imhotep says you can help. Please, the pyramid must be completed." }
+  ],
+  "rome_brutus": [
+    { "speaker": "Brutus", "text": "You... you are not of this time. I can see it in your eyes." },
+    { "speaker": "Kael", "text": "I'm here to ensure history follows its path. The Ides of March must proceed." },
+    { "speaker": "Brutus", "text": "A temporal phantom guards Caesar. It shields him with power beyond mortal understanding." },
+    { "speaker": "Brutus", "text": "If you can destroy it, the natural course of events will resume." },
+    { "speaker": "Kael", "text": "History is cruel, but it must be preserved. I'll handle the anomaly." }
+  ],
+  "rome_senator": [
+    { "speaker": "Roman Senator", "text": "Strange lights in the Forum last night. The augurs say the gods are at war." },
+    { "speaker": "Roman Senator", "text": "Caesar grows bolder each day, protected by some unseen force. It's unnatural." }
+  ],
+  "modern_final": [
+    { "speaker": "The Eraser", "text": "You cannot stop entropy, Guardian. All timelines converge to nothing." },
+    { "speaker": "Kael", "text": "Every era I've walked through — they all matter. Every life, every choice." },
+    { "speaker": "The Eraser", "text": "Then let me show you what nothing feels like." }
+  ]
+}
